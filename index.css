@@ -36,10 +36,10 @@ body{
 	text-align: center;
 }
 .banner .card button {
-    background: orange;
-    border: 3px solid;
+    background: #FFA500;
+    border: 3px solid #000000;
     border-radius: 2px;
-    color: blue;
+    color: #0000FF;
     font-family: 'Muli',serif;
     font-style: bold;
     font-size: 2rem;
@@ -53,7 +53,7 @@ body{
 
 .banner .card button:hover{
     cursor: pointer;
-    box-shadow: 0px 0px 20px 3px cyan;
+    box-shadow: 0px 0px 20px 3px #00FFFF;
 }
 
 .intro{
@@ -93,7 +93,7 @@ body{
 	width:15vw;
 	border: 1px solid #35eea4;
     border-radius: 10px;
-    box-shadow: 0px 3px 20px 2px black;
+    box-shadow: 0px 3px 20px 2px #000000;
 }
 
 .interests{
@@ -138,14 +138,14 @@ body{
     margin-top: 3vh;
     width:17vw;
     height:25vh;
-    box-shadow: 0px 3px 20px 2px cyan;
+    box-shadow: 0px 3px 20px 2px #00FFFF;
 }
 
 .interests .footer{
  	display:flex;
  	flex-direction: column;
  	align-items: center;
- 	background-color: white;
+ 	background-color: #FFFFFF;
  	padding-top: 5vh;
 }
 
@@ -264,7 +264,7 @@ body{
       margin-top: 5vh;
       width:50vw;
       height:20vh;
-      box-shadow: 0px 3px 20px 2px cyan;
+      box-shadow: 0px 3px 20px 2px #00FFFF;
     }
     .icon-group .icon{
    	 width:30px;
@@ -293,7 +293,7 @@ body{
     }
     .banner .card button{
 		font-size: 4rem;
-		background-color: orange;
+		background-color: #FFA500;
     }
     .banner .card .image{
 	   width:100vw;
